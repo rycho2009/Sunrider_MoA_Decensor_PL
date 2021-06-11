@@ -14,12 +14,12 @@ label censorscene1:
     scene bg avaroom with dissolve
     show ava hs handhair blushsmile with dissolve
 
-    "Ava turned the heater on."
+    "Ava włączyła grzejnik."
     kay "I have no idea why it's always so cold on Cera."
     kay "I hear Far Port has pretty good weather. Tropical year round."
     kay "Lots of beaches."
     ava "... ... ..."
-    "Ava sat behind Kayto."
+    "Ava usiadła za Kayto."
     "She put her hand on his mouth"
     ava "... ... ..."
     ava "Hej, idioto."
@@ -36,7 +36,7 @@ label censorscene1:
     "She leaned in. Their lips met."
     "The tender tingling on their lips was too distant. They searched deeper."
     "Ava shoved him down onto her bed."
-    ava "Still cold?"
+    ava "Dalej zimno?"
     "She climbed on top of him, her legs straddling his hips."
     "She leaned down to his face."
     
@@ -77,7 +77,7 @@ label censorscene1:
     ava "Ty... naprawdę jesteś idiotą."
     kay "It'll take a while. But we'll fly our own ship together."
     kay "A proud and mighty vessel of the Cera Space Force."
-    kay "We'll have adventures across the galaxy. Defeat bad guys. Defend humanity."
+    kay "Będziemy mieć przygody w całej galaktyce. Pokonywać złych facetów. Bronić ludzkości."
     kay "Just you and me."
     kay "Captain Crescentia and First Officer Shields."
     kay "Just like old times."
