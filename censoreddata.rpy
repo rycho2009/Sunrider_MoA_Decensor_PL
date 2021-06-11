@@ -76,7 +76,7 @@ label censorscene1:
     ava "Hahahaha!"
     ava "Ty... naprawdę jesteś idiotą."
     kay "To trochę zajmie. Ale polecimy naszym własnym statkiem razem."
-    kay "A proud and mighty vessel of the Cera Space Force."
+    kay "Dumnym i potężnym okrętem Sił Kosmicznych Cery."
     kay "Będziemy mieć przygody w całej galaktyce. Będziemy pokonywać złych facetów. Będziemy bronić ludzkości."
     kay "Just you and me."
     kay "Captain Crescentia and First Officer Shields."
