@@ -51,7 +51,7 @@ label censorscene1:
     "He closed his eyes and drowned in Ava's warmth."
     "But why had he not done this sooner."
     "Why had he wanted until the last second, only after it was too late?"
-    "Their hands met. Their fingers intertwined."
+    "Ich dłonie się spotkały. Their fingers intertwined."
     "Instead, he chose to waste his youth on indecision and false leads."
     "He had to do something. Or else he would lose her forever."
     "Their bodies overheated."
@@ -65,9 +65,9 @@ label censorscene1:
     scene cg_avacg2 with dissolve
     
     ava "... ...  ..."
-    "Kayto stroked Ava's face."
+    "Kayto pogłaskał twarz Avy."
     kay "... ... ..."
-    kay "Podjąłem decyzję. I'm going to enlist too."
+    kay "Podjąłem decyzję. Ja też się zaciągnę."
     ava "Co?"
     kay "To nie jest koniec."
     kay "Będę rok za tobą. Kto wie co się wydarzy."
@@ -82,7 +82,7 @@ label censorscene1:
     kay "Kapitan Crescentia ai Pierwszy Oficer Shield."
     kay "Just like old times."
     ava "... ... ..."
-    "Ava flicked him on his forehead."
+    "Ava pstryknęła go w czoło."
     ava "Heh."
     ava "Idiota."
     
