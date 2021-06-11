@@ -20,7 +20,7 @@ label censorscene1:
     kay "Lots of beaches."
     ava "... ... ..."
     "Ava usiadła za Kayto."
-    "She put her hand on his mouth"
+    "Położyła dłonie na jego usta"
     ava "... ... ..."
     ava "Hej, idioto."
     ava "Zamknij się na moment."
