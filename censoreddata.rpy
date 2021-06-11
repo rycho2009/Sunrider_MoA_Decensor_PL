@@ -79,7 +79,7 @@ label censorscene1:
     kay "Dumnym i potężnym okrętem Sił Kosmicznych Cery."
     kay "Będziemy mieć przygody w całej galaktyce. Będziemy pokonywać złych facetów. Będziemy bronić ludzkości."
     kay "Just you and me."
-    kay "Captain Crescentia and First Officer Shields."
+    kay "Kapitan Crescentia ai Pierwszy Oficer Shield."
     kay "Just like old times."
     ava "... ... ..."
     "Ava flicked him on his forehead."
