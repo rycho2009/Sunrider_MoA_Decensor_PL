@@ -53,7 +53,7 @@ label censorscene1:
     "Why had he wanted until the last second, only after it was too late?"
     "Ich dłonie się spotkały. Their fingers intertwined."
     "Instead, he chose to waste his youth on indecision and false leads."
-    "He had to do something. Or else he would lose her forever."
+    "Musiał coś zrobić. Inaczej straciłby ją na zawsze."
     "Their bodies overheated."
     "With a final shove, Ava gasped for joy. She crumpled on top of him, her legs quivering."
     "He gasped as if death had him in its grasp, his world saturated white."
