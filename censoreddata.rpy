@@ -15,7 +15,7 @@ label censorscene1:
     show ava hs handhair blushsmile with dissolve
 
     "Ava włączyła grzejnik."
-    kay "I have no idea why it's always so cold on Cera."
+    kay "Nie mam pojęcia, dlaczego na Cerze zawsze jest tak zimno."
     kay "I hear Far Port has pretty good weather. Tropical year round."
     kay "Lots of beaches."
     ava "... ... ..."
