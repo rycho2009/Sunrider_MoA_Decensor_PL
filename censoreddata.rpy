@@ -34,7 +34,7 @@ label censorscene1:
         ease 0.5 alpha 0.0
 
     "She leaned in. Their lips met."
-    "The tender tingling on their lips was too distant. They searched deeper."
+    "The tender tingling on their lips was too distant. Szukali głębiej."
     "Ava shoved him down onto her bed."
     ava "Dalej zimno?"
     "She climbed on top of him, her legs straddling his hips."
