@@ -16,8 +16,8 @@ label censorscene1:
 
     "Ava włączyła grzejnik."
     kay "Nie mam pojęcia, dlaczego na Cerze zawsze jest tak zimno."
-    kay "I hear Far Port has pretty good weather. Tropical year round."
-    kay "Lots of beaches."
+    kay "Słyszałem, że Far Port ma całkiem niezły klimat. Tropikalnie przez cały rok naokrągło."
+    kay "Masę plaż."
     ava "... ... ..."
     "Ava usiadła za Kayto."
     "Położyła dłonie na jego usta"
