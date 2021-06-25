@@ -49,7 +49,7 @@ label censorscene1:
     "As the two caressed each other, black regret cut into his dream."
     "He had longed for this moment longer than he could remember."
     "He closed his eyes and drowned in Ava's warmth."
-    "But why had he not done this sooner."
+    "Ale dlaczego nie poczynił tego szybciej."
     "Why had he wanted until the last second, only after it was too late?"
     "Ich dłonie się spotkały. Their fingers intertwined."
     "Instead, he chose to waste his youth on indecision and false leads."
